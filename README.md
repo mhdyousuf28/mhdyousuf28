@@ -50,12 +50,12 @@
 
 ### 💻 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,java,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,python" />
 </p>
 
 ### 🛠️ Tools I Use
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,vscode,canva,mysql" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,mysql" />
 </p>
 
 
