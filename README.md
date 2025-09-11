@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=mhdyousuf28&color=brightgreen" alt="visitor badge"/>
 </p>
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hi+I'm+Mohamed+Yousuf!;Full+Stack+Web+Developer;Exploring+JavaScript+%26+React.js;Coding+with+Creativity+%F0%9F%9A%80" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hi+I'm+Mohamed+Yousuf!;Mern+Stack+Web+Developer;Exploring+JavaScript+%26+React.js;Coding+with+Creativity+%F0%9F%9A%80" alt="Typing Animation" />
 </h1>
 
 <h3 align="center">
